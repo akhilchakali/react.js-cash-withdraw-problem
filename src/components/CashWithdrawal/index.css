@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.cont {
+  background-color: white;
+  padding: 20px;
+  color: white;
+}
+.in-cont {
+  background-color: #150b3e;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.profile {
+  background-color: #c7d2fe;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  border-bottom-left-radius: 100px;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-top-right-radius: 100px;
+  margin-right: 10px;
+}
+.heading {
+  display: flex;
+  flex-direction: row;
+}
+.balance {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.money {
+  display: flex;
+  flex-direction: column;
+}
+.withdraw {
+  display: flex;
+  flex-direction: column;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

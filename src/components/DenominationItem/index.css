@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.btn {
+  height: 30px;
+  width: 80px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: white;
+  background-color: #382f5a;
+  color: white;
+  margin: 15px;
+}
